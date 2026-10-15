@@ -1,6 +1,6 @@
 <div align="center">
 
-![8-Bit AI Video demo](demo.gif)
+![8-Bit AI Video demo](8-bit-retro-demo.gif)
 
 # 👾 8-Bit Pixel AI Video Kit
 
